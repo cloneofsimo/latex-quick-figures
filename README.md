@@ -3,9 +3,10 @@
 This makes Latex Figures like wonders.
 
 *Make sure that you have a directory "./figures" that is at least empty.*
+
 *Make sure that your inkscape program is at C:/Program Files/.*
 
-#How to use
+# How to use
 In your tex file, make a single line with xy where
 *x* is your template number, and *y* is your figure name.
 Then, press ctr + alt + o at the end of the line , or Package->Latex Quick Figures-> Make Latex Figure
