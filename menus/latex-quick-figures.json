@@ -1,0 +1,30 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Create with current data",
+        "command": "latex-quick-figures:makefigure"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Latex Quick Figures",
+          "submenu": [
+            {
+              "label": "Compile all figures",
+              "command": "latex-quick-figures:compileallfig"
+            },
+            {
+              "label":"Make Latex Figure",
+              "command":"latex-quick-figures:makefigure"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

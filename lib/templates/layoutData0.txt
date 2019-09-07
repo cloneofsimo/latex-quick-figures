@@ -1,0 +1,7 @@
+\begin{figure}[ht]
+	\centering
+	\def\svgwidth{\columnwidth}
+	\import{./figures/}{!.pdf_tex}
+	\caption{!}
+	\label{fig:!}
+\end{figure}

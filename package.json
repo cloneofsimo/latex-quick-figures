@@ -1,0 +1,22 @@
+{
+  "name": "latex-quick-figures",
+  "main": "./lib/latex-quick-figures",
+  "version": "0.0.0",
+  "description": "Make latex figures with a breeze",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": [
+      "latex-quick-figures:fetch",
+      "latex-quick-figures:compileallfig",
+      "latex-quick-figures:makefigure"
+    ]
+  },
+  "repository": "https://github.com/atom/latex-quick-figures",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "request": "^2.73.0"
+  }
+}
