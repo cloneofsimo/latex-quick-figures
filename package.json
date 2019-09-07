@@ -11,7 +11,7 @@
       "latex-quick-figures:makefigure"
     ]
   },
-  "repository": "https://github.com/atom/latex-quick-figures",
+  "repository": "https://github.com/cloneofsimo/latex-quick-figures",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
