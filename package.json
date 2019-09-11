@@ -1,7 +1,7 @@
 {
   "name": "latex-quick-figures",
   "main": "./lib/latex-quick-figures",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Make latex figures with a breeze",
   "keywords": [],
   "activationCommands": {
